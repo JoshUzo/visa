@@ -6,4 +6,5 @@ deploy to staging env
 echo good job.
 Tested and accepted
 #bugs removed
-
+echo "car services automated"
+echo "Hello $user your car need services"
