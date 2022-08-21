@@ -3,3 +3,5 @@ simon
 peter
 peter
 paul
+kennedy
+john
