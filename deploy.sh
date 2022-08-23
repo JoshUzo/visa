@@ -9,3 +9,5 @@ Tested and accepted
 echo "car services automated"
 echo "Hello $user your car need services"
 deploy from Jboss and Tomcat
+date
+whoami
